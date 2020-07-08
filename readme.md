@@ -9,20 +9,21 @@ My college friend Ben and I recently did a trip to the famous one way in Malibu/
 |---|---|
 | [Ben Lovell](https://www.instagram.com/ben__lovell/?hl=en) | Matt Garelli |
 
-This was an ambitious endeavor, but we both saw it a milestone in our journey that started five years ago in a [parking garage in Stanford CA](https://youtu.be/gvDXwlKnCUY) ripping corners and throwing our first pendulum slides. It was really a journey to become legitimate downhill longboarders.
+This was an ambitious endeavor, but we both saw it a milestone in our journey that started five years ago in a [parking garage in Stanford, CA](https://youtu.be/gvDXwlKnCUY) ripping corners and throwing our first pendulum slides. It was really a journey to become legitimate downhill longboarders.
 
 My deep love of the sport really started through an internship I did at [Braden Boards](https://www.instagram.com/rojastrucks/?hl=en) working with Jared on some of the initial design concepts for the 30 degree baseplate, stress analysis of the axels, & various extraneous research on the effects of rake on stability as well as some CAD models for future designs. I also got a chance to shred with Chase and some of the Mo-luv crew in the stunning oasis for longboarding that exists in Southern Missouri. I was hooked, and I knew I wanted some more.
 
-One final disclaimer: Neither Ben nor I are by any means professionals, and we went to this monster of a mountain to get down it alive and in some way, shape, or form get the concept of a Raw Run out of the adventure. Look elsewhere for a professional guide / breakdown of the run.
+#### Quick Disclaimer
+Neither Ben nor I are by any means professionals, and we went to this monster of a mountain to get down it alive and in some way, shape, or form get the concept of a Raw Run out of the adventure. Look elsewhere for a professional guide / breakdown of the run.
 
 # Table of Contents
-1. Research and Approach
-2. Equipment
-3. Failing and Learning
-4. Raw Runs and Full Sends
-5. Philosophy for the Road
+1. [Research](#summary)
+2. [Equipment](#Equipment)
+3. [Failing](#Failing)
+4. [Sending](#Sending)
+5. [Philosophy](#Philosophy)
 
-# Research and Approach
+# Research
 
 So at this point, I have watched essentially every longboard video of the canyon that YouTube has to offer. But when it came down to a few weeks before the run I figured I'd pick one and try to do my own breakdown to understand at least one rider's approach to the sequence of turns. I chose [this guys run](https://www.youtube.com/watch?v=fMXz2o_92OI) because he hit a lot of the road and it was a textbook raw run. I broke down my plan to lose speed as follows:
 
@@ -72,16 +73,16 @@ All gear was assuming we were going to shred the gnar as much as possible for 4 
 	* If you have never hit this hill before I would say the bare minimum would be full-face helmet, elbow, and hip protection. some of the turns on this hill are a bit decieving. Road rash on learning day was not fun and ultimately lead to less send.
 	* If you want to add to that list then a back protector is good for peace of mind and finally classic knee pads. The problem with knee pads is you have to learn to fall on your knees which won't work if they break or you stop wearing them.
 
-# Failing and Learning
+# Failing
 
 This part was pretty brutal actually. The number of times I peeled off my underwear from my hip (and took some skin with it) was starting to make me go crazy. But that was really the worst I got. One of my Nike SB shoes gave way on the top and I lost a chunk of skin by the edge of my foot by my pinkie. And my lower back hit one of the canyon walls on day 2 that made tucks a bit more painful for the rest of the trip.
 
 Ben has always been really adamant about pads. Wearing them for him has always been a sense of pride rather than the opposite. He says it's so he can send it harder every time. Because of this he sustained less damage, however, there was still a rock to the ankle and he caught his thumb on a rough point in the pavement.
 
-# Raw Runs and Full Sends
+# Sending
 This was really the goal. The reason we went on this trip was to get the street-cred and the raw, un-cut footage. In this small community it seems that there is a badge of honor that comes with being entertaining enough without needing an intense amount of video editing.
 
-# Philosophy for the Road
+# Philosophy
 
 Overall, having a road in front of us for 4 entire days that, for us, had an infinite skill cap was a really humbling baptism by fire. However the learnings and fulfillment we got out of being able to eventually communicate with the road and see lines to apexes that previously we never thought were possible was extremely... steezy, dope, and awesome!
 
