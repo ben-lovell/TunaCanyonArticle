@@ -1,9 +1,15 @@
 # Beginner Guide to Longboarding Tuna Canyon
-![canyon picture](./resource/canyon_pic.jpg)
+![canyon picture](./resource/images/landscape.jpg)
 
 # Intro
 
-My college friend [Ben](https://www.instagram.com/ben__lovell/?hl=en) and I recently did a trip to the famous one way in Malibu/Santa Monica to attempt to learn the mountain in the matter of 4 days. This was an ambitious endeavor, but we both saw it a milestone in our journey that started five years ago in a [parking garage in Stanford CA](https://youtu.be/gvDXwlKnCUY) ripping corners and throwing our first pendulum slides. It was really a journey to become legitimate downhill longboarders.
+My college friend Ben and I recently did a trip to the famous one way in Malibu/Santa Monica to attempt to learn the mountain in the matter of 4 days.
+
+| ![ben longboard](./resource/images/ben_cliff.jpg) | ![matt longboard](./resource/images/matt_cliff.jpg) |
+|---|---|
+| [Ben Lovell](https://www.instagram.com/ben__lovell/?hl=en) | Matt Garelli |
+
+This was an ambitious endeavor, but we both saw it a milestone in our journey that started five years ago in a [parking garage in Stanford CA](https://youtu.be/gvDXwlKnCUY) ripping corners and throwing our first pendulum slides. It was really a journey to become legitimate downhill longboarders.
 
 My deep love of the sport really started through an internship I did at [Braden Boards](https://www.instagram.com/rojastrucks/?hl=en) working with Jared on some of the initial design concepts for the 30 degree baseplate, stress analysis of the axels, & various extraneous research on the effects of rake on stability as well as some CAD models for future designs. I also got a chance to shred with Chase and some of the Mo-luv crew in the stunning oasis for longboarding that exists in Southern Missouri. I was hooked, and I knew I wanted some more.
 
